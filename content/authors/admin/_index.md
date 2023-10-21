@@ -56,7 +56,7 @@ skills:
       percent: 80
       icon: python
       icon_pack: fab
-    - name: Data Science
+    - name: Machine Learning/Deep Learning
       description: ''
       percent: 100
       icon: chart-line
