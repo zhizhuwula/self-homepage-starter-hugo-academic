@@ -1,9 +1,9 @@
 ---
 # Display name
-title: 付沛文
+title: Peiwen Fu
 
 # Name pronunciation (optional)
-name_pronunciation: Peiwen Fu
+# name_pronunciation: Peiwen Fu
 
 # Full name (for SEO)
 first_name: Peiwen
@@ -17,41 +17,41 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: lalala
+role: Intelligent Medical Engineering (IME)
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Southern University of Science 
-    url: https://www.stanford.edu/
+  - name: Southern University of Science and Technology
+    # url: https://www.stanford.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: Hello! I'm Peiwen. My research interests include distributed robotics, mobile computing and programmable matter.
+bio: Hello! I'm Peiwen. My research interests include rehabilitation robotics, physiological signal analysis and deep learning.
 
 # Interests to show in About widget
 interests:
+  - Rehabilitation Robotics
+  - Physiological Signal (EMG,EEG)
+  - Medical Big Data
+  - Gait analysis
   - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
 
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: Undergraduate
+      institution: Southern University of Science and Technology
+      year: 2020.9-2024.6 (expected)
+    - course: Exchange student
+      institution: National University of Singapore
+      year: 2023.8-2024.1 (expected)
+
 
 # Skills
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
 skills:
   - name: Technical
     items:
-    - name: Python
+    - name: Data Analysising
       description: ''
       percent: 80
       icon: python
