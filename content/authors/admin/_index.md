@@ -29,7 +29,7 @@ bio: Hello! I'm Peiwen. My research interests include rehabilitation robotics, p
 
 # Interests to show in About widget
 interests:
-  - Rehabilitation Robotics
+  - Rehabilitation Robotics ！！！！！！！！
   - Physiological Signal (EMG,EEG)
   - Medical Big Data
   - Gait analysis
