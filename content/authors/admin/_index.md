@@ -49,9 +49,9 @@ education:
 # Skills
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
 skills:
-  - name: Technical
+  - name: Technics
     items:
-    - name: Data Analysising
+    - name: Signal Processing/Image ProcessingData Analysising
       description: ''
       percent: 80
       icon: python
@@ -61,21 +61,21 @@ skills:
       percent: 100
       icon: chart-line
       icon_pack: fas
-    - name: SQL
+    - name: Data Analysising
       description: ''
       percent: 40
       icon: database
       icon_pack: fas
-  - name: Hobbies
+  - name: Programming Languages
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: Hiking
+      - name: Python
         description: ''
-        percent: 60
-        icon: person-hiking
-        icon_pack: fas
-      - name: Cats
+        percent: 90
+        icon: python
+        icon_pack: fab
+      - name: MATLAB
         description: ''
         percent: 100
         icon: cat
